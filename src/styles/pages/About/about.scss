@@ -1,0 +1,22 @@
+.custom-h1 {
+    max-width: 600px;
+    font-size: 1rem; 
+    margin-bottom: 0.5rem; 
+  }
+  .custom-span {
+    color: black;
+    font-weight: 600;
+    font-size: 1.125rem;
+  }
+  .custom-button {
+    width: 13rem;
+    height: 2.5rem; 
+    background-color: rgb(38, 38, 38);
+    color: white;
+    transition: background-color 0.3s;
+  
+  }
+  .custom-button:hover {
+    background-color: black;
+  }
+  
